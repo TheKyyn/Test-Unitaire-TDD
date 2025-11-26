@@ -1,0 +1,5 @@
+.claude
+vendor/
+.env
+.env.local
+.env.testing
